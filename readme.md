@@ -1,4 +1,3 @@
-Here's a README for your GANs image generation project, formatted for use in Obsidian:
 
 ---
 
